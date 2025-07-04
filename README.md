@@ -1,3 +1,6 @@
+# Hi👋, I'm Adam Dou
+👨‍💻 Programmer Pemula
+
 # 💫 About Me:
 👨‍💻 Student at SMK Negeri 1 Kotamobagu<br>🚀 Building small projects, growing every day<br>🧠 "Adapt or die. Code like it's survival."<br>🌱 Always improving. Never settling.
 
